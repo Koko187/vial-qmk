@@ -29,6 +29,7 @@
 //enable RGB Matrix Effects for Vial
 #define RGB_MATRIX_FRAMEBUFFER_EFFECTS
 #define RGB_MATRIX_KEYPRESSES
+#define RGB_DISABLE_WHEN_USB_SUSPENDED
 
 //Vial Keyboard UID
 #define VIAL_KEYBOARD_UID {0xEC, 0xFE, 0x5D, 0x44, 0x1A, 0x9C, 0x70, 0xCC}
